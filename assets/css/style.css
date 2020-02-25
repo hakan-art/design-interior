@@ -144,6 +144,13 @@ p:nth-of-type(3)
 {
     width: 28%;
 }
+figcaption{
+    text-align: center;
+    font-size: 1.3em;
+    font-family: 'Work Sans';
+    opacity: .7;
+
+}
 
 .image
 {
